@@ -10,3 +10,6 @@ install: ## install modules
 
 .PHONY: ci
 ci: install ## ci
+	yarn format
+	yarn lint
+	yarn test
