@@ -1,0 +1,13 @@
+{
+	"name": "newsly-frontend",
+	"dockerComposeFile": [
+		"../docker-compose.yml",
+	],
+	"service": "node",
+	"workspaceFolder": "/workspace",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash",
+	},
+	"extensions": [
+	]
+}
