@@ -31,4 +31,8 @@ yarn build
 # コマンドを package.json に追加
 yarn format
 yarn lint
+
+# Apollo
+# https://www.apollographql.com/docs/react/get-started/
+yarn add -D @apollo/client graphql
 ```
